@@ -187,7 +187,7 @@ async function showHelp(bot, chatId, messageId) {
 • Format icon: JPG/PNG
 
 <b><tg-emoji emoji-id="5314504236132747481">⁉️</tg-emoji> Butuh Bantuan?</b>
-Hubungi: @wizznotfav
+Hubungi: di 
     `.trim();
 
     // Delete old message (photo) and send new text message
